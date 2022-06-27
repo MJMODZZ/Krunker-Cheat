@@ -1,0 +1,18 @@
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+	background: #FFF;
+	border-radius: 3px;
+	background: #c000c0;
+	padding: 0px 10px;
+}
+
+main:hover {
+	background: #c000c0;
+}
+
+main:active {
+	background: #c000c0;
+}

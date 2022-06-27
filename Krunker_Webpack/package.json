@@ -1,0 +1,25 @@
+{
+	"name": "KrunkerWebpackCheats",
+	"description": "Powerful Krunker cheats",
+	"author": "The Gaming Gurus",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "gpl-3.0",
+	"homepage": "https://github.com/y9x/webpack",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/y9x/webpack.git"
+	},
+	"scripts": {
+		"build": "node ./index.js -once",
+		"live-build": "node ./index.js"
+	},
+	"bugs": {
+		"url": "https://github.com/y9x/webpack/issues"
+	},
+	"dependencies": {
+		"css-tree": "^1.1.3",
+		"msgpack-lite": "^0.1.26",
+		"webpack": "^5.40.0"
+	}
+}
