@@ -22,7 +22,7 @@ This scipt is using the base from [y9x Krunker-Webpack](https://github.com/y9x/w
 <p align="center">
 
 </p>
-## Build
+# Build
 
 - For Build you have to install [NodeJS](https://nodejs.org)
 - Open CMD in the repo and type in:
