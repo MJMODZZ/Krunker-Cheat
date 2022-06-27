@@ -23,7 +23,7 @@ This scipt is using the base from [y9x Krunker-Webpack](https://github.com/y9x/w
 
 </p>
 <p align="center">
-# Build
+BUILD
 
 - For Build you have to install [NodeJS](https://nodejs.org)
 - Open CMD in the repo and type in:
@@ -32,3 +32,4 @@ cd webpack
 npm install
 npm run build
 ```
+The Build is in /dist folder
